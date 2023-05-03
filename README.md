@@ -5,6 +5,9 @@ The goal of this project is to automate the process of screening resumes for job
 
 Dataset:
 The dataset used in this project consists of resumes of job applicants for different positions in the company. The data includes information such as education, work experience, skills, and other relevant details.
+data collected: resumes dataset
+data direct link: https://www.kaggle.com/gauravduttakiit/resume-dataset
+tested resume link: https://drive.google.com/file/d/1Br654dS3f8RN_-C3_YyHFDrdDMdJyEgp/view?usp=sharing
 
 Data Preprocessing:
 The data is preprocessed to remove irrelevant information, such as personal information and images, and to extract relevant features, such as education, work experience, and skills. The text data is cleaned by removing stop words, punctuation, and special characters, and then transformed into numerical features using techniques like bag-of-words or word embeddings.
